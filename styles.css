@@ -129,6 +129,49 @@
     width: 30px;
     margin-left: 10px;
 }
+.cuepo-nosotros{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    background-color: #1a1a1a;
+    color: white;
+    min-height: 80vh;
+}
+.nosotros {
+    /*padding: 2rem;*/
+    text-align: center;
+    padding-bottom: 19.5rem;
+}
+
+.nosotros h2 {
+    color: #f1c40f;
+    margin-bottom: 0.5rem;
+    font-weight: normal;
+    font-size: 1.2rem;
+}
+
+.nosotros h3 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.nosotros p {
+    margin-bottom: 2rem;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.6;
+}
+
+.footer-nosotros {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem ;
+    background-color: #1a1a1a;
+    color: white;
+}
 
 /*media commit   
 dfjodfjgdfjfdgjlkj*/
